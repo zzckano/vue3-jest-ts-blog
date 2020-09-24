@@ -1,4 +1,4 @@
-# vue3-jest-ts-blog
+# vue3-jest-ts-blog 🎉
 
 #[DEMO](http://www.zzckano.com:8085/)
 
